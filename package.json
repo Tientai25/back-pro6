@@ -20,5 +20,8 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.19.2",
+    "spress": "^0.1.2"
+  }
 }
